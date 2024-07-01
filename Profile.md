@@ -3,18 +3,21 @@
 ## Name:
 
 - **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Phone**: [Your Phone Number]
-- **Address**: [Your Address]
-- **LinkedIn**: [Your LinkedIn Profile]
 
-## Summary:
+## About:
 
-- [Summary]
+- **About**: [About Yourself]
 
 ## Skills:
 
-- [Skill 1]
-- [Skill 2]
+- **Languages**: [Languages]
+- **Frameworks**: [Frameworks]
+- **Tools**: [Tools]
 
-This looks good
+## Projects:
+
+- **Project 1**: [Project 1 Name]
+  - **Description**: [Project 1 Description]
+  - **Tech Stack**: [Project 1 Tech Stack]
+  - **GitHub**: [Project 1 GitHub Link]
+  - **Website**: [Project 1 Website Link]

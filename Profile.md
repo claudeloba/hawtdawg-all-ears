@@ -1,5 +1,7 @@
 # Profile
 
+## Introduction:
+
 ## Name:
 
 - **Name**: [Your Name]
@@ -13,9 +15,6 @@
 - **Languages**: [Languages]
 - **Frameworks**: [Frameworks]
 - **Tools**: [Tools]
-
-tja
-hej
 
 ## Projects:
 
